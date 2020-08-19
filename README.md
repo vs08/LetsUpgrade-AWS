@@ -1,1 +1,1 @@
-# LetsUppgrade-AWS
+# LetsUpgrade AWS
